@@ -1,0 +1,163 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:#eeece0;background-image:none;font-family:Arial, Helvetica, sans-serif;}
+
+h1
+{
+	color:#b35516;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:25px;
+	font-weight:bold;
+	letter-spacing:-1px;
+	margin:0 30px 0;
+}
+
+h3
+{
+	color:#ea6e1d;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	margin:0 0 3px;
+}
+
+h4
+{
+	color:#66a0a3;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	margin:0 0 11px;
+}
+
+h5
+{
+	color:#50609c;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	letter-spacing:-1px;
+}
+
+.clear {clear:both;}
+
+.add-photo
+{
+	background-color:#eeece0;
+	background-image:url(../images/popup-bg.jpg);
+	background-repeat:no-repeat;
+	padding:40px 0 0;
+	width:700px;
+}
+
+.header
+{
+	border-bottom:1px solid #659fa2;
+	border-top:1px solid #659fa2;
+	margin:23px 30px 20px;
+	padding:5px 0;
+}
+
+.row1 {float:left;width:66px;}
+.row2 {float:left;padding:2px 0 0;width:250px;}
+.row3 {float:left;padding:4px 0 0;width:189px;}
+.row4 {float:left;padding:4px 0 0;width:120px;}
+
+.row3 h4
+{
+	font-size:14px;
+	font-weight:normal;
+	margin:0;
+}
+
+.row4 h3
+{
+	font-size:14px;
+	margin:0;
+}
+
+.warning
+{
+	background-color:#ffe2e2;
+	border:1px solid #ff0000;
+	color:#e70000;
+	font-size:14px;
+	margin:0 30px 20px;
+	padding:20px;	
+}
+
+.warning p {padding:0 0 3px}
+
+.wrapper
+{
+	background-color:#e3ddc3;
+	border-bottom:1px solid #ab9c8f;
+	border-top:1px solid #ab9c8f;
+	margin:0 0 10px;
+	text-align:center;
+	padding:0 0 30px;
+}
+
+.number
+{
+	background-color:#ab9c8f;
+	color:#ebebe1;
+	font-size:24px;
+	font-weight:bold;
+	height:40px;
+	line-height:40px;
+	margin:0 0 0 30px;
+	text-align:center;
+	width:40px;
+}
+
+.input {margin:0 0 10px;}
+
+.input span
+{
+	color:#333333;
+	font-size:14px;
+	font-weight:bold;
+}
+
+.input input {color:#b55516;font-size:12px;margin:0 0 0 10px;}
+.input textarea {color:#b55516;font-size:12px;margin:0 0 0 10px;}
+
+.browse
+{
+	width:294px;
+}
+
+.desc
+{
+	border:1px solid #aa9d71;
+	padding:4px 10px 0;
+	width:272px;	
+}
+
+a.closed
+{
+	color:#b45516;
+	display:block;
+	font-size:14px;
+	font-weight:bold;
+	margin:-20px 30px 0 0;
+	text-align:right;
+	text-decoration:none;	
+}
+
+a.closed:hover {text-decoration:underline}
+
+.yukle
+{
+	margin:0 0 0 50px;	
+}
+
+p.pre
+{
+	color:#ff0000;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	height:20px;	
+	margin:0 0 0 30px;
+}

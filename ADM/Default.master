@@ -1,0 +1,106 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Default.master.cs" Inherits="_Default" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title>Hayatidoldur.com ADMIN PANEL</title>
+
+    <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1254" />
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9" />    
+    <meta http-equiv="Content-Language" content="tr" />
+	<meta name="Language" content="Turkish" />
+	<meta name="AUTHOR" content="
+					------------------------------------
+					Web:    wandadigital.com
+    				------------------------------------
+					" />
+
+	<meta http-equiv="Refresh" content="2650" />
+
+    <link rel="stylesheet" type="text/css"  href="Styles/Master.css"/>
+    <link rel="stylesheet" type="text/css"  href="Styles/Form.css"/>
+    <link rel="stylesheet" type="text/css"  href="Styles/Global.css"/>
+    <link rel="stylesheet" type="text/css"  href="Styles/Screen.css"/>
+    <link rel="stylesheet" type="text/css"  href="Styles/Text.css"/>
+    
+    <link rel="stylesheet" type="text/css"  href="Styles/Paging.css"/>
+    
+    <link rel="stylesheet" type="text/css" href="Styles/Jquery/jquery.lightbox-0.5.css" media="screen" />
+    <link rel="stylesheet" type="text/css"  href="Styles/Jquery/jquery.jcrop.css"/>
+        
+    <!--[if lt IE 7]>
+    <script defer type="text/javascript" src="Scripts/pngfix.js"></script>
+    <![endif]-->
+    
+    <script type="text/javascript" src="Scripts/Util.js"></script>
+    <script type="text/javascript" src="Scripts/AjaxUtil.js"></script>
+    <script type="text/javascript" src="Scripts/ListboxHelper.js"></script>
+    
+    <script type="text/javascript" src="Scripts/Custom.js"></script>
+
+    <script type="text/javascript" src="Scripts/SwfObject.js"></script>
+    
+    <script type="text/javascript" src="Scripts/Jquery/jquery.js"></script>
+    <script type="text/javascript" src="Scripts/Jquery/jquery.lightbox-0.5.js"></script>
+    
+</head>
+<body>
+<noscript>
+  <table bgcolor="#FFFFFF" width="100%" height="4000" style="position: absolute; z-index: 25;">
+    <tr>
+      <td valign="top" style="padding: 30px">
+        <hr />
+          <b>LUTFEN JAVASCRIPT AYARLARINIZI ACINIZ !.. </b>
+          <br />
+          <hr />
+          </td>
+    </tr>
+  </table>
+  <meta http-equiv="refresh" content="3;URL=http://www.wandadigital.com" />
+</noscript>
+    <form id="form1" runat="server">
+    <asp:ScriptManager id="ScrMng1" runat="server" 
+    AsyncPostBackTimeout="3600" EnableScriptGlobalization="True"
+        AsyncPostBackErrorMessage="Hata! L�tfen daha sonra tekrar deneyiniz">
+    </asp:ScriptManager>
+             
+	<div id="Container">
+	
+        <div id="Header">
+            <a href="Default.aspx"><img id="Logo" alt="" src="Images/Customer/Logo.png" /></a>
+            <ul>
+                <li><a class="aBarNav" href="http://www.hayatidoldur.com" target="_blank">[ Hayatidoldur.com ]</a></li>
+                <li><a class="aBarNav" href="Management.aspx">[ ANASAYFA ]</a></li>            
+            </ul>        
+        </div>
+
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+        
+    </div>        
+    
+    <div id="Footer">
+    
+        <div id="FooterContainer">
+        
+            <div style="float: left;">
+            <a class="aBarNav" href="Management.aspx">Anasayfa</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+            <a class="aBarNav" href="http://www.hayatidoldur.com" target="_blank">Hayatidoldur.com</a>
+            
+            <div class="Clr"></div>
+            
+            Copyright  Tüm Hakları Hayatı Doldur'a aittir.
+            
+            </div>
+            
+            <div> <img id="Wanda" alt="" src="Images/Master/Wanda.gif" /> </div>
+            
+        </div>
+        
+    </div>
+    
+    </form>
+</body>
+</html>

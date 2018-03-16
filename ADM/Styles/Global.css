@@ -1,0 +1,45 @@
+.Clr { clear: both; height: 0; margin: 0; font-size: 1px; line-height: 0px; }
+
+.Form { background: #FFFFFF; color:#3b3939; font-size:11px; padding:20px; }
+.Form p { margin: 12px 0 0; padding: 0; }
+.FormFooter { background: #FFFFFF; padding: 0 20px 20px 11px; text-align: right; }
+.FormFooter div { float: left; }
+
+.Error { background: #39292a url('../Images/Notices/Error/Back.jpg') repeat-x top left; color: #FFF; margin-bottom: 5px; min-height: 60px; }
+.Error img { float: left; margin: 10px 10px 10px 20px;  }
+.Error p { color: #eef4c7; display: block; font: bold 15px Trebuchet MS; padding: 10px 0 5px; }
+.Error p span { color: #FFF; display: block; font: normal 11px Tahoma; padding-top: 5px; }
+
+.Success { background: #feffff url('../Images/Notices/Success/Back.jpg') repeat-x top left; color: #46494a; margin-bottom: 5px; min-height: 60px; padding-bottom: 10px; }
+.Success img { float: left; margin: 10px 10px 10px 20px; }
+.Success p { color: #195813; display: block; font: bold 15px Trebuchet MS; padding: 10px 0 5px; }
+.Success p span { color: #000; display: block; font: normal 11px Tahoma; padding-top: 5px; }
+
+.Warning { background: #15636a url('../Images/Notices/Warning/Back.jpg') repeat-x top left; color: #fab7b7; margin-bottom: 5px; min-height: 60px; padding-bottom: 10px; }
+.Warning img { float: left; margin: 10px 10px 10px 20px;  }
+.Warning p { color: #fab7b7; display: block; font: bold 15px Trebuchet MS; padding: 10px 0 5px; }
+.Warning p span { color: #FFF; display: block; font: normal 11px Tahoma; padding-top: 5px; }
+
+.Validate { background: #131112 url('../Images/Notices/Validate/Back.jpg') repeat-x top left; color: #fab7b7; font-size: 13px; margin-bottom: 5px; min-height: 60px; padding: 10px; }
+.Validate ul li { margin-bottom: 5px; }
+
+.fW1 { width: 475px; }
+.fW2 { width: 790px; }
+
+.Grid { float: left; text-align: left; }
+.Grid th { cursor: default; padding: 0; margin: 0; text-align: center; font-weight: normal; }
+.Grid .Head { background: url('../Images/Grid/HeaderBack.jpg'); color: #30496f; font-size: 11px; font-weight: bold; height: 34px; margin: 0 0 1px 0; }
+.Grid .Item { background: #15454e url('../Images/Grid/ItemBack.jpg') repeat-x bottom left; color: #000; height: 28px; background-color: #FFF; }
+.Grid .ItemOver { cursor: pointer; background: #15454e url('../Images/Grid/ItemOverBack.jpg') repeat-x; color: #FFF; height: 28px; }
+.Grid .ItemOver a { color: #FFF; }
+.Grid td { padding-right: 10px; line-height: 160%; }
+.Grid .Padding { padding: 5px 10px; }
+
+.ScrollColor {
+	SCROLLBAR-HIGHLIGHT-COLOR: #1C5B66;
+	SCROLLBAR-SHADOW-COLOR: #1C5B66;
+	SCROLLBAR-ARROW-COLOR: #42B8CC;
+ 	SCROLLBAR-TRACK-COLOR: #15464F;
+	SCROLLBAR-DARKSHADOW-COLOR: #226D7B;
+  	SCROLLBAR-BASE-COLOR: #226D7B; 
+}

@@ -1,0 +1,72 @@
+﻿body
+{
+	margin: 0;
+	background:#eeece0 url(bg.jpg) top left no-repeat;
+	font-family:Tahoma;
+	font-size:11px;
+}
+
+.logo
+{
+	float:left;
+	height:137px;
+	width:130px;
+	padding-left: 20px;
+}
+
+.logo a
+{
+	background:url(../../images/logo.png) no-repeat;
+	display:block;
+	height:127px;
+	text-indent:-99999px;
+	width:155px;
+}
+
+/* navigation */
+.navigation
+{
+	float:left;
+	width:815px;
+}
+
+.navigation ul
+{
+	float:right;
+	padding:44px 0 0;
+}
+
+.navigation li
+{
+	float:left;
+	height:23px;
+	margin:0 31px 0 0;
+}
+
+.navigation li.nav1 {width:48px;}
+.navigation li.nav2 {width:84px;}
+.navigation li.nav3 {width:86px;}
+.navigation li.nav4 {width:70px;}
+.navigation li.nav5 {width:130px;}
+.navigation li.nav6 {width:81px;}
+
+.navigation li a
+{
+	background-repeat:no-repeat;
+	display:block;
+	height:23px;
+	text-indent:-99999px;
+}
+
+.navigation li a.spor {background-image:url(../../images/spor.png);}
+.navigation li a.spor:hover {background-image:url(../../images/sporOver.png);}
+.navigation li a.kariyer {background-image:url(../../images/kariyer.png);}
+.navigation li a.kariyer:hover {background-image:url(../../images/kariyerOver.png);}
+.navigation li a.eglence {background-image:url(../../images/eglence.png);}
+.navigation li a.eglence:hover {background-image:url(../../images/eglenceOver.png);}
+.navigation li a.muzik {background-image:url(../../images/muzik.png);}
+.navigation li a.muzik:hover {background-image:url(../../images/muzikOver.png);}
+.navigation li a.kultur {background-image:url(../../images/kultur.png);}
+.navigation li a.kultur:hover {background-image:url(../../images/kulturOver.png);}
+.navigation li a.festival {background-image:url(../../images/festival.png);}
+.navigation li a.festival:hover {background-image:url(../../images/festivalOver.png);}

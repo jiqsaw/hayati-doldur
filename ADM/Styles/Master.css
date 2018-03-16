@@ -1,0 +1,33 @@
+body { background: #004157 url(../Images/Master/Back.jpg) top left no-repeat; margin: 0; padding: 0; }
+div { color: #000; font-family: Tahoma; font-size: 11px; margin: 0; padding: 0; }
+table { border-collapse: collapse; border-spacing: 0px 0px; }
+img { border: 0; }
+hr { border: dotted 1px #3b546e; height: 1px; }
+label { cursor: pointer; }
+a { color: #535668; font-family: Tahoma; font-size: 11px; }
+a:hover { color: #000; font-family: Tahoma; font-size: 11px; }
+
+h1 /*Ýç Sayfa Baþlýðý*/ { color: #0a6375; font: normal 21px Trebuchet Ms;/* FF */ *font: normal 21px Trebuchet Ms; padding: 0; margin: 0 0 5px; }
+h2 /*Form Baþlýk Satýrý*/ { background: url('../Images/Global/HeaderBack.jpg'); color: #30496f; font-size: 12px; font-weight: bold; height: 31px; line-height: 31px; margin: 0 0 1px; text-indent: 23px; }
+h3 /*MENU BAÞLIÐI*/ { background: url('../Images/Global/LineHor.jpg') repeat-x bottom left; padding-left: 8px; margin-bottom: 4px; min-height: 22px; width: 185px;
+        font: bold 11px Verdana;/* FF */ *font: normal 14px Trebuchet Ms; }
+
+#Container { margin: 0 25px 0 25px; }
+
+#Header { height: 110px; }
+#Header #Logo { float: left; max-height: 84px; max-width: 225px; margin: 0; }
+#Header ul { float: right; list-style: none; padding: 0; margin: 24px 0 0 0; }
+#Header li { float: right; padding: 0; margin: 0 0 0 10px; }
+
+#Footer { background: url(../Images/Master/BottomBack.jpg) repeat-x bottom left; display: block; height: 57px; clear: both; padding-top: 20px; position: relative; /* for IE */ filter: alpha(opacity=0); /* CSS3 standard */ opacity: 0; }
+#FooterContainer { margin: 0 25px 0 24px; padding-top: 15px; }
+#FooterContainer div { color: #54565d; line-height: 150%; }
+#FooterContainer #Wanda { float: right; margin: 4px 18px 0 0; }
+
+#Sub { position: relative; }
+
+#Menu { background: url('../Images/Global/LineVer.jpg') repeat-y top right; color: #f2fbc6; display: block; float: left; min-height: 600px; margin: 0 15px 10px 0; width: 230px; }
+#Menu a { color: #FFF; display: block; padding-left: 6px; padding-bottom: 5px; text-decoration: none; font: normal 12px Arial;/* FF */ *font: normal 12px Segoe UI, Trebuchet Ms, Arial; }
+#Menu a:hover { color: #2ec3eb; text-decoration: none; }
+
+.Page { float: left; vertical-align: top; padding: 0; position: relative;}

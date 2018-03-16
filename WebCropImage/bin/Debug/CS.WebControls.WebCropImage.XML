@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CS.WebControls.WebCropImage</name>
+    </assembly>
+    <members>
+        <member name="T:CS.WebControls.WebCropImage">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CS.WebControls.WebCropImage.OnCropped(System.Object,CS.WebControls.CropImageEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:CS.WebControls.WebCropImage.OnCropping(System.Object,CS.WebControls.CropImageEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:CS.WebControls.WebCropImage.Crop(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="path"></param>
+        </member>
+        <member name="M:CS.WebControls.WebCropImage.OnPreRender(System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:CS.WebControls.WebCropImage.OnInit(System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="F:CS.WebControls.WebCropImage.script">
+            <summary>
+            Script that will be registered.
+            </summary>
+        </member>
+        <member name="M:CS.WebControls.WebCropImage.AttachToClientScriptArea">
+            <summary>
+            Attaches to client script area.
+            </summary>
+        </member>
+        <member name="M:CS.WebControls.WebCropImage.BuildScripts">
+            <summary>
+            Builds the scripts.
+            </summary>
+        </member>
+        <member name="M:CS.WebControls.WebCropImage.btn_Click(System.Object,System.EventArgs)">
+            <summary>
+            Button clicked to crop.
+            </summary>
+            <param name="sender">IButtonControl</param>
+            <param name="e">Eventargs</param>
+        </member>
+        <member name="M:CS.WebControls.WebCropImage.RenderContents(System.Web.UI.HtmlTextWriter)">
+            <summary>
+            
+            </summary>
+            <param name="output"></param>
+        </member>
+        <member name="E:CS.WebControls.WebCropImage.Cropped">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="E:CS.WebControls.WebCropImage.Cropping">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:CS.WebControls.WebCropImage.CropImage">
+            <summary>
+            ID of the asp.net Image control to be cropped.
+            </summary>
+        </member>
+        <member name="P:CS.WebControls.WebCropImage.MaxSize">
+            <summary>
+            MaxSize of the asp.net Image control to be cropped.
+            </summary>
+        </member>
+        <member name="P:CS.WebControls.WebCropImage.MinSize">
+            <summary>
+            MinSize of the asp.net Image control to be cropped.
+            </summary>
+        </member>
+        <member name="P:CS.WebControls.WebCropImage.ImagePath">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:CS.WebControls.WebCropImage.Controls">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:CS.WebControls.WebCropImage.CropButtonID">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:CS.WebControls.WebCropImage.X">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:CS.WebControls.WebCropImage.Y">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:CS.WebControls.WebCropImage.W">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:CS.WebControls.WebCropImage.H">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:CS.WebControls.WebCropImage.ScriptPath">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:CS.WebControls.WebCropImage.IncludeJQuery">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:CS.WebControls.WebCropImage.Ratio">
+            <summary>
+            If you set ratio no need to set both W and H properties.
+            </summary>
+        </member>
+        <member name="T:CS.WebControls.WebCropImage.CropImageEventHandler">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

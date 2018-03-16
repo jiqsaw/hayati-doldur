@@ -1,0 +1,62 @@
+@charset "utf-8";
+html, body{height:100%;
+text-align:center;} 
+input,textarea{
+	background-image:url(_images/boxbg.jpg);
+	border-right:1px solid #666;
+	border-bottom:1px solid #666;
+	border-left:1px solid #999;
+	border-top:1px solid #999;
+	padding:2px;
+	color:#999;
+	font-size:11px;
+	letter-spacing:0.03em;
+	}
+select{
+	color:#999;
+	border-right:1px solid #666;
+	border-bottom:1px solid #666;
+	border-left:1px solid #999;
+	border-top:1px solid #999;
+	font-size:11px;
+	letter-spacing:0.03em;}
+body {
+background:url(_images/hayatidoldur_splash.png) center no-repeat #eeece0;
+margin:0;
+padding:0;
+min-height:600px;/*for mozilla/opera */
+min-width:800px;/* """ */
+font-family:Verdana;
+font-size:10px;
+color:#999999;
+}
+h3{
+	color:#FF9900;
+	border-bottom:1px solid #4E4E4E;
+	font-weight:lighter;
+	padding-bottom:5px;
+	font-size:12px;
+	letter-spacing:0.09em;
+	}
+a { 
+	color: #FF9900; 
+	text-decoration: none; 
+	line-height: 200%;
+}
+a:hover { 
+	color: #333;
+	filter: Gray;
+	opacity:0.60; 
+	filter: Alpha(Opacity=60);
+}
+a.current{ 
+	color: #FFF; 
+}
+
+#Header {
+background:url(_images/headerbar.png) center top no-repeat ;
+height:44px;
+width:100%;
+display:block;
+float:left;
+}

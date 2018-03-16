@@ -1,0 +1,15 @@
+D:\UTIL\Project Utils\Vs Project Temp (ADMIN)\DAL\bin\Debug\DAL.dll
+D:\UTIL\Project Utils\Vs Project Temp (ADMIN)\DAL\bin\Debug\DAL.pdb
+D:\UTIL\Project Utils\Vs Project Temp (ADMIN)\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\UTIL\Project Utils\Vs Project Temp (ADMIN)\DAL\obj\Debug\DAL.dll
+D:\UTIL\Project Utils\Vs Project Temp (ADMIN)\DAL\obj\Debug\DAL.pdb
+D:\PRJ\Efes Keyfi\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\PRJ\Efes Keyfi\DAL\obj\Debug\DAL.dll
+D:\PRJ\Efes Keyfi\DAL\bin\Debug\DAL.dll
+D:\PRJ\Efes Keyfi\DAL\bin\Debug\DAL.pdb
+D:\PRJ\Efes Keyfi\DAL\obj\Debug\DAL.pdb
+D:\PRJ\Hayatı Doldur\DAL\bin\Debug\DAL.dll
+D:\PRJ\Hayatı Doldur\DAL\bin\Debug\DAL.pdb
+D:\PRJ\Hayatı Doldur\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\PRJ\Hayatı Doldur\DAL\obj\Debug\DAL.dll
+D:\PRJ\Hayatı Doldur\DAL\obj\Debug\DAL.pdb

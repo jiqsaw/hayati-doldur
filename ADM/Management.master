@@ -1,0 +1,21 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Default.master" AutoEventWireup="true" CodeFile="Management.master.cs" Inherits="Management" %>
+<%@ Register src="~/UC/Management/uNavigate.ascx" tagname="uNavigate" tagprefix="uc1" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+<div id="Sub">
+
+    <div id="Menu">
+        
+        <uc1:uNavigate ID="uNavigate1" runat="server" />
+        
+    </div>
+    
+    <div class="Page fW2">
+    
+        <asp:ContentPlaceHolder ID="PlaceHolderManagement" runat="server"></asp:ContentPlaceHolder>
+    
+    </div>
+
+</div>
+
+</asp:Content>

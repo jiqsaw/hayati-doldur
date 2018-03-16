@@ -1,0 +1,24 @@
+﻿.lightbox-wrapper {width:483px}
+
+.lightbox-top {background-image:url(../images/lightbox-top.png);width:483px;height:17px;}
+
+.lightbox-body {background-image:url(../images/lightbox-body.png);background-repeat:repeat-y;}
+.lightbox-header {background-image:url(../images/lightbox_header.png);background-repeat:no-repeat;color:#055fab;font-family:Georgia, "Times New Roman", Times, serif;font-size:18px;font-style:italic;font-weight:bold;height:51px;margin:0 17px 0 16px;padding:10px 15px 15px}
+.lightbox-inputs {padding:0 0 7px;}
+.lightbox-inputs p {color:#333333;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;float:left;height:26px;line-height:26px;margin:0 5px 0 0;text-align:right;width:230px;}
+.lightbox-input-wrapper {float:left;height:24px;width:214px;}
+.lightbox-inputs input {border:1px solid #aa9d71;height:24px;width:213px;}
+
+.lightbox-send { margin:15px 0 0 223px; padding:0 0 10px; }
+.lightbox-send input {margin:0 0 0 10px}
+
+.lightbox-bottom {background-image:url(../images/lightbox-bottom.png);background-repeat:no-repeat;width:483px;height:17px;}
+
+span.lightbox-span {color:#66912a;display:block;font-family:Arial, Helvetica, sans-serif;font-size:14px;font-weight:bold;margin:0 0 15px 30px;width:330px;}
+.warning {background-image:url(../images/warning.gif);background-repeat:no-repeat;height:28px;margin:7px 0 0;text-indent:-99999px;width:73px;}
+
+.lightbox-send a { display:block; margin:0 0 0 10px; float: left; width: 103px;height:37px;padding:0 }
+a.lightbox-send-btn { text-indent:-99999px;background-image:url(../images/login-btn2.gif);}
+a.lightbox-cancel-btn { text-indent:-99999px;background-image:url(../images/cancel.gif); }
+
+.modalBackground { background-color: #000; filter: alpha(opacity=70); opacity:0.7; }

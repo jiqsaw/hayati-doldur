@@ -1,0 +1,27 @@
+D:\UTIL\Project Utils\Vs Project Temp (ADMIN)\BUS\bin\Debug\BUS.dll
+D:\UTIL\Project Utils\Vs Project Temp (ADMIN)\BUS\bin\Debug\BUS.pdb
+D:\UTIL\Project Utils\Vs Project Temp (ADMIN)\BUS\obj\Debug\ResolveAssemblyReference.cache
+D:\UTIL\Project Utils\Vs Project Temp (ADMIN)\BUS\obj\Debug\BUS.dll
+D:\UTIL\Project Utils\Vs Project Temp (ADMIN)\BUS\obj\Debug\BUS.pdb
+D:\PRJ\Efes Keyfi\BUS\obj\Debug\ResolveAssemblyReference.cache
+D:\PRJ\Efes Keyfi\BUS\obj\Debug\BUS.dll
+D:\PRJ\Efes Keyfi\BUS\obj\Debug\BUS.pdb
+D:\PRJ\Efes Keyfi\BUS\bin\Debug\BUS.dll
+D:\PRJ\Efes Keyfi\BUS\bin\Debug\BUS.pdb
+D:\PRJ\Efes Keyfi\BUS\bin\Debug\COM.dll
+D:\PRJ\Efes Keyfi\BUS\bin\Debug\DAL.dll
+D:\PRJ\Efes Keyfi\BUS\bin\Debug\LIB.dll
+D:\PRJ\Efes Keyfi\BUS\bin\Debug\COM.pdb
+D:\PRJ\Efes Keyfi\BUS\bin\Debug\DAL.pdb
+D:\PRJ\Efes Keyfi\BUS\bin\Debug\LIB.pdb
+D:\PRJ\Hayatı Doldur\BUS\bin\Debug\BUS.dll
+D:\PRJ\Hayatı Doldur\BUS\bin\Debug\BUS.pdb
+D:\PRJ\Hayatı Doldur\BUS\bin\Debug\COM.dll
+D:\PRJ\Hayatı Doldur\BUS\bin\Debug\DAL.dll
+D:\PRJ\Hayatı Doldur\BUS\bin\Debug\LIB.dll
+D:\PRJ\Hayatı Doldur\BUS\bin\Debug\COM.pdb
+D:\PRJ\Hayatı Doldur\BUS\bin\Debug\DAL.pdb
+D:\PRJ\Hayatı Doldur\BUS\bin\Debug\LIB.pdb
+D:\PRJ\Hayatı Doldur\BUS\obj\Debug\ResolveAssemblyReference.cache
+D:\PRJ\Hayatı Doldur\BUS\obj\Debug\BUS.dll
+D:\PRJ\Hayatı Doldur\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,81 @@
+.TextBox { 
+	display: block;
+	font-family: Tahoma; font-size: 12px;
+	border: 1px solid #767e85;
+    color: #2c2929;
+    padding: 4px 0;
+	margin: 4px 0 0;
+	text-indent: 4px;
+	width: 100%;
+}
+
+.TextBoxOpt { 
+	display: block;
+	font-family: Tahoma; font-size: 12px;
+	border: 1px solid #bbbdbf;
+	color: #666666;
+	padding: 4px 0;
+	margin: 4px 0 0;
+	text-indent: 4px;
+	width: 100%;
+}
+
+textarea { 
+	display: block;
+	font-family: Tahoma; font-size: 12px;
+	border: 1px solid #767e85;
+    color: #474242;
+    padding: 4px 0;
+	margin: 4px 0 0;
+	text-indent: 4px;
+	width: 100%;
+}
+
+.TextBoxWhite {
+	color:  #998902; 
+	border:  1px solid #FFFFFF; 
+	padding-left:  4px; padding-right:  4px; padding-top:  1px; padding-bottom:  1px; 
+	font-family:  Trebuchet MS; font-size:  10pt; font-style:  italic;
+}
+
+.Button
+{
+	background: url(../Images/Button/ButtonBack.jpg) repeat-x;
+	border: 0;
+	color: #cfe3fd;
+	cursor: pointer;
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	height: 30px;
+	margin: 0;
+	padding: 0 9px;
+}
+
+.Button2
+{
+	background: url(../Images/Button/Button2Back.jpg) repeat-x;
+	border: 0;
+	color: #344356;
+	cursor: pointer;
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	height: 30px;
+	margin: 0;
+	padding: 0 9px;
+}
+
+
+select {
+	font-family: Tahoma;
+	font-size: 13px;
+	padding: 4px 0;
+	margin: 4px 0 0;
+	width: 100%;
+}
+
+.ListBox {
+	font-family: Tahoma; 
+	font-size: 11px; 
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /_Private/
+Disallow: /Admin/
+Disallow: /ScriptResource.axd
+Disallow: /WebResource.axd

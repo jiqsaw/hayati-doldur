@@ -1,0 +1,39 @@
+﻿/* Pagings CSS */
+.Paging {
+	width: 100%;
+	height: 41px;
+	/* background-image: url('../Images/Backgrounds/FooterBack.gif');
+	background-repeat: repeat-x; */
+	background-color: #FFFFFF;
+	/*border: 1px solid #cfd5e3;*/
+	font-family: Tahoma; font-size: 11px;
+}
+
+.Paging select {
+    width: auto;
+}
+
+.RecordCountCell {
+	width: 120px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.RecordCountText {
+	font-weight: bold;	
+}
+
+.PageSizeCell {
+	width: 180px; 
+	text-align: left; 
+	padding-left: 10px;
+}
+
+.PageNumberCell {
+	text-align: right; 
+	padding-right: 10px;
+}
+
+.NextPrevLink {
+	text-decoration: none;
+}
